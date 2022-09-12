@@ -1,6 +1,0 @@
-name: IAMRoleSharedNetworking
-runtime:
-  name: python
-  options:
-    virtualenv: venv
-description: Stack to create IAM user for SharedNetworking account
